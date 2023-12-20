@@ -1,0 +1,14 @@
+C:\CsharpOop\TGontar\src\Lab5\Application\Lab5.Application.Models\obj\Debug\net7.0\Lab5.Application.Models.csproj.AssemblyReference.cache
+C:\CsharpOop\TGontar\src\Lab5\Application\Lab5.Application.Models\obj\Debug\net7.0\Lab5.Application.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\CsharpOop\TGontar\src\Lab5\Application\Lab5.Application.Models\obj\Debug\net7.0\Lab5.Application.Models.AssemblyInfoInputs.cache
+C:\CsharpOop\TGontar\src\Lab5\Application\Lab5.Application.Models\obj\Debug\net7.0\Lab5.Application.Models.AssemblyInfo.cs
+C:\CsharpOop\TGontar\src\Lab5\Application\Lab5.Application.Models\obj\Debug\net7.0\Lab5.Application.Models.csproj.CoreCompileInputs.cache
+C:\CsharpOop\TGontar\src\Lab5\Application\Lab5.Application.Models\bin\Debug\net7.0\Lab5.Application.Models.deps.json
+C:\CsharpOop\TGontar\src\Lab5\Application\Lab5.Application.Models\bin\Debug\net7.0\Lab5.Application.Models.dll
+C:\CsharpOop\TGontar\src\Lab5\Application\Lab5.Application.Models\bin\Debug\net7.0\Lab5.Application.Models.pdb
+C:\CsharpOop\TGontar\src\Lab5\Application\Lab5.Application.Models\bin\Debug\net7.0\Lab5.Application.Models.xml
+C:\CsharpOop\TGontar\src\Lab5\Application\Lab5.Application.Models\obj\Debug\net7.0\Lab5.Application.Models.dll
+C:\CsharpOop\TGontar\src\Lab5\Application\Lab5.Application.Models\obj\Debug\net7.0\refint\Lab5.Application.Models.dll
+C:\CsharpOop\TGontar\src\Lab5\Application\Lab5.Application.Models\obj\Debug\net7.0\Lab5.Application.Models.xml
+C:\CsharpOop\TGontar\src\Lab5\Application\Lab5.Application.Models\obj\Debug\net7.0\Lab5.Application.Models.pdb
+C:\CsharpOop\TGontar\src\Lab5\Application\Lab5.Application.Models\obj\Debug\net7.0\ref\Lab5.Application.Models.dll
